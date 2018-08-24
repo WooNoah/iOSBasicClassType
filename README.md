@@ -26,6 +26,7 @@
 |[strM mutableCopy]|__NSCFString|
 
 2.2 'NSArray',两个变量`NSArray *arr声明的不可变array`，和`NSMutableArray *arrM声明的可变array`
+
 |状态|类名|
 |:-:|:-:|
 |arr|__NSArrayI|
@@ -35,6 +36,7 @@
 |[arrM mutableCopy]|__NSArrayM|
 
 2.3 'NSDictionary',两个变量`NSDictionary *dict声明的不可变dictionary`和`NSMutableDictionary *dictM声明的可变dictionary`
+
 |状态|类名|
 |:-:|:-:|
 |dict|__NSDictionaryI|
